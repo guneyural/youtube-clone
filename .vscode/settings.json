@@ -1,0 +1,18 @@
+{
+    "workbench.colorTheme": "Material Theme",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontWeight": "normal",
+    "window.zoomLevel": 0,
+    "editor.fontSize": 15,
+    "files.autoSave": "afterDelay",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+}
+
+# current way to change the editor window font size
+"editor.fontSize": 10,
+# other non-editor font settings
+"global.other.editor.fontSize": 12,
+# or maybe per individual panel/window settings... although this may be too much
+"window.debug.fontSize": 12,
+"window.console.fontSize": 12,

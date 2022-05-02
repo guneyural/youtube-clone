@@ -1,16 +1,14 @@
 # Youtube Clone
 
 Youtube UI and animations made with React Native.
-
 Inspired by [this video](https://www.youtube.com/watch?v=CQGV_FDvS-Q&t=17122s). I took JSON data (Video Title, thumbnail, video link, etc.) from this project.
-
 Made it all by myself with extra features and without using any bottom sheet library.
-
-My app is enhanced version of the app in the video. You can see the working example of the app that gave me the inspiration by the link above.
-
+My app is enhanced version of the app in the video. You can see the working example of the app that gave me the inspiration by [this link](https://www.youtube.com/watch?v=CQGV_FDvS-Q&t=17122s).
 To see my app go down below
 
 # Working Example
+Click To Watch
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=-8gpqf6EOas
 " target="_blank"><img src="http://img.youtube.com/vi/-8gpqf6EOas/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
